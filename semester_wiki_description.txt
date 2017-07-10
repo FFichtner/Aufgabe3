@@ -1,0 +1,24 @@
+MainPage
+
+-> Studenplanhilfe
+---> Informatik B.c
+---> Internet Computing B.c
+---> Wahlfächer
+---> Schlüsselqualifikationen
+---> Studienordnung
+-> Wichtige Kontake
+	FSinfo (altklausuren)
+	Dekan
+	Systembetreuung
+-> Studientools
+	Git
+	Eclipse
+	Tomcat
+	XAMPP
+	IntelliJ
+	Pycharm
+	CLion
+	Rational Software Architect
+-> Sonstige Hinweise
+-> News
+-> Diskussion
