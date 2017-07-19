@@ -1,0 +1,67 @@
+====== GitHub ======
+
+{{::github-logo-in-a-rounded-square_318-40761.jpg?nolink&200 |}}
+{{ :github-logo.png?nolink&200 |}}
+{{ ::25231.png?nolink&200|}}
+
+
+
+
+
+
+[[https://github.com/|GitHub]] wird euch im laufe eures Studiums sicherlich begegnen, daher haben wir hier für euch ein paar Infos dazu.
+
+
+----
+===== Allgemeines =====
+
+__Was ist GitHub__?
+
+GitHub ist ein Online-Dienst welcher euch Softwareentwicklungsprojekte auf einem Server ermöglicht. (**Filehosting**). Namensgeben war hierbei das Versionsverwaltungstool **git**. 
+Damit könnt ihr dann in eurem eigenen **Repository** als Team untereinander kommunizieren, die Fortschritte des Projektes einsehen und euch bei Problemen unterstützen, am Ende könnt ihr dann euer Projekt mergen und abgeben.
+
+Übrigens bedeutet das Wort "git" im englischen so viel wie "Blödmann".
+
+
+
+----
+
+===== Einführung und Hello World =====
+
+
+__Wie benutze ich GitHub?__
+
+Auf GitHub werden auch Tutorials bzw. Guides angeboten, die euch in weniger Minuten mit der Software vertraut machen.
+Den Einsteigerkurs findet ihr [[https://guides.github.com/activities/hello-world/|hier]].
+Keine Sorge die Tutorials sind meistens für absolute Neueinsteiger verfasst, ihr dürftet also keine Probleme haben, dass allzeit beliebte "Hello World" hochzuladen. 
+
+{{ :commit.png?nolink&600 |}}
+
+
+----
+
+===== Andere Filehosting-Anbieter =====
+
+
+__Alternativen zu GitHub__
+
+Falls ihr euch gar nicht mit GitHub anfreunden könnt, so gibt es noch einige weiter Open Source Project Hosting Plattformen.
+Hier ein paar Beispiele:
+
+==== Bitbucket ====
+
+{{ :fluid-width-bitbucket.jpeg?nolink&600 |}}
+
+
+----
+
+==== GitKraken ====
+
+{{ ::csm_gitkraken_5597311ab1.png?nolink&600 |}}
+
+
+----
+
+==== Apache Allura ====
+
+{{ ::csm_apache-allura_691aacafac.png?nolink&600 |}}

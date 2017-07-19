@@ -1,1 +1,17 @@
 ====== Schlüsselqualifikationen ======
+
+^Veranstaltungsnummer ^ Veranstaltungsname       ^ ETCs        ^ 
+|5160|Basiskurs Mathematik| 6|  
+|5877|Java Frameworks in der Praxis| 1|
+|5884V    |Gewerblicher Rechtsschutz     | 3|
+|37662   |Praktikum zu ERP-Systemen          |5|
+|39452    |Business Planning          | 5|
+|60027 |Business Etikette: Manieren alssoziale Kodizes  | 1|
+|61021  |Rhetorik: Basisseminar  | 1|
+|60047    |Persönlichkeitsentwicklung:Umgang mit Konflikten (alt: Konfliktmanagement) | 1|
+|61051   |Teammanagement  | 1|
+|61055    |Soft Skills im IT-Umfeld  | 1|
+|62021   |Projektmanagement: Basisseminar  | 1|
+|90595 | Fachspezifische Fremdsprachenausbildung in Englisch FFA AS1 u. FFA AS2 | 3|
+|64038  |Programmieren in C und C++  | 5|
+|62024|Agiles SoftwareProjektmanagement mit Scrum und Kanban  | 1|

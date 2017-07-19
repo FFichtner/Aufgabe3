@@ -1,0 +1,14 @@
+====== Pycharm ======
+
+{{ ::pycharm.png?nolink&400 |}}
+
+===== Allgemeines =====
+
+Pycharm ist eine IDE für Python.
+
+===== Getting Started =====
+
+{{youtube>BPC-bGdBSM8}}
+
+===== Weitere Infos =====
+ Pycharm gehört genau wie IntelliJ und CLion zu JetBrains. 

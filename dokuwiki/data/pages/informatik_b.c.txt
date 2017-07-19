@@ -1,1 +1,83 @@
-====== Informatik B.C. ======
+====== Informatik B.Sc. ======
+=== Beispiel Studienplan Bachelor Informatik mit Wahlfach BWL oder Mathematik und Studienbeginn im Wintersemester ===
+^Semester    ^Modul       ^ETCs        ^
+^1 ^^^    
+|    |Grundlagen der Informatik  |   7|
+|    |Technische Informatik      |   7|
+|    |Programmierung I           |   6|
+|    |Lineare Algebra I          |   9|
+|    |                           |   *29*|
+^2 ^^^    
+|    |Algorithmen und Datenstrukturen  |   7|
+|    |Datenmodellierung                |   6|
+|    |Software Engineering             |   5|
+|    |Rechnerarchitektur               |   5|
+|    |Analysis I                       |   9|
+|    |                                 |   *32*|
+^3 ^^^    
+|    |Programmierung II                |   6|
+|    |Theoretische Informatik I+II     |   9|
+|    |Einführung in die Stochastik     |   9|
+|    |Wahlfach (Unternehmensrechnung bzw. Analysis II |   9|
+|    |                                 |   *33*|
+^4 ^^^    
+|    |Datenbanken und Informationssysteme                |   9|
+|    |Grundlagen der IT-Sicherheit     |   5|
+|    |Rechnernetze     |   7|
+|    |Wahlfach(Management und Unternehmensführung bzw. Lineare Algebra II) |   9|
+|    |                                 |   *30*|
+^5 ^^^    
+|    |Software Engineering Praktikum                |   13|
+|    |Verteilte Systeme     |   5|
+|    |Wahlpflichtmodul Informatik     |   7|
+|    |Wahlpflichtmodule Schlüsselqualifikation/Fremdsprachen |   3|
+|    |                                 |   *28*|
+^6 ^^^    
+|    |Bachelorarbeit und Präsentation der Bachelorarbeit               |   15|
+|    |Seminar     |   4|
+|    |Wahlpflichtmodul Informatik     |   6|
+|    |Wahlpflichtmodule Schlüsselqualifikation/Fremdsprachen |   3|
+|    |          |   *28*|  
+
+
+
+
+=== Beispiel Studienplan Bachelor Informatik mit Wahlfach BWL oder Mathematik und Studienbeginn im Sommersemester===
+^Semester    ^Modul       ^ETCs        ^
+^1 ^^^    
+|    |Algorithmen und Datenstrukturen  |   7|
+|    |Datenmodellierung      |   6|
+|    |Programmierung I           |   6|
+|    |Analysis I           |   9|
+|    | Wahlpflichtmodule Schlüsselqualifikation/Fremdsprachen |  3|
+|    |                           |   *31*|
+^2 ^^^    
+|    |Grundlagen der Informatik  |   7|
+|    |Programmierung II               |   6|
+|    |Lineare Algebra I             |   9|
+|    |Einführung in die Stochastik               |   9|
+|    |                                 |   *31*|
+^3 ^^^    
+|    |Datenbanken und Informationssysteme             |   9|
+|    |Rechnernetze    |   7|
+|    |Software Engineering     |   5|
+|    |Wahlfach(Management und Unternehmensführung bzw. Lineare Algebra II) |   9|
+|    |                                 |   *30*|
+^4 ^^^    
+|    |Theoretische Informatik I+II                |   9|
+|    |Verteilte Systeme     |   5|
+|    |Technische Informatik   |   7|
+|    |Wahlfach (Unternehmensrechnung bzw. Analysis II) |   9|
+|    |                                 |   *30*|
+^5 ^^^    
+|    |Software Engineering Praktikum                |   13|
+|    |Rechnerarchitektur    |   5|
+|    |Grundlagen der IT-Sicherheit     |   5|
+|    |Wahlpflichtmodul Informatik |   6|
+|    |                                 |   *29*|
+^6 ^^^    
+|    |Bachelorarbeit und Präsentation der Bachelorarbeit               |   15|
+|    |Seminar     |   4|
+|    |Wahlpflichtmodul Informatik     |   7|
+|    |Wahlpflichtmodule Schlüsselqualifikation/Fremdsprachen |   3|
+|    |          |   *29*|

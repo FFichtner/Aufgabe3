@@ -1,0 +1,18 @@
+====== IntelliJ ======
+
+{{ ::6eqopnuy.jpg?nolink&400 |}}
+
+===== Allgemeines =====
+Ähnlich wie Eclipse ist IntelliJ eine IDE für Java. Allerdings handelt es sich hierbei um keine Open Source Software. An der Universität könnt ihr allerdings eine Lizenz erlagen, solange ihr Student der FIM seid. 
+
+
+
+
+===== Überblick =====
+
+{{youtube>GSKERVTMWqs}}
+
+
+===== Getting Started =====
+
+{{youtube>c0efB_CKOYo}}

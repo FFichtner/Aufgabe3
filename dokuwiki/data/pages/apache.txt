@@ -1,0 +1,21 @@
+====== Apache ======
+
+ {{ :apache_software_foundation_logo_2016_.svg.png?nolink&200 |}}
+
+
+===== Allgemeines =====
+Die Apache Software Foundation (**ASF**) ist eine ehrenamtliche Organisation zu Förderung von Softwareprojekten. 
+Apache betreibt eine Vielzahl an Projekten, mit einigen werdet ihr auch in Berührung kommen (z.B. Jackrabbit, Maven, Tomcat ).
+
+
+===== Tomcat =====
+
+[[https://tomcat.apache.org/tomcat-3.3-doc/tomcat-ug.html|hier]] findet ihr den User´s Guide zu Tomcat. 
+
+{{ ::56c8514a-eb15-4cc5-8e5e-3b89e7a408fa-tomcat.png?nolink&400 |}}
+
+===== Maven =====
+
+[[https://maven.apache.org/guides/getting-started/|Das]] ist der Getting Started Guide für Maven. 
+
+

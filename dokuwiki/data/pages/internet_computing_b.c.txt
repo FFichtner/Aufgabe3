@@ -1,1 +1,86 @@
-====== Internet Computing B.C. ======
+====== Internet Computing B.Sc. ======
+=== Beispiel Studienplan Bachelor Internet Computing mit Studienbeginn im Wintersemester ===
+^Semester    ^Modul       ^ETCs        ^
+^1 ^^^    
+|    |Einführung in Internet Computing  |   9|
+|    |Grundlagen der Mensch-Maschine-Interaktion      |   5|
+|    |Programmierung I           |   6|
+|    |Grundlagen der Mathematik I          |   5|
+|    |Wahlfach                       |  5|
+|    |                           |   *30*|
+^2 ^^^    
+|    |Algorithmen und Datenstrukturen  |   7|
+|    |Datenmodellierung                |   6|
+|    |Software Engineering             |   5|
+|    |Grundlagen der Mathematik II     |   5|
+|    |Wahlfach                         |   5|
+|    |                                 |   *28*|
+^3 ^^^    
+|    |Programmierung II                |   6|
+|    |Web Science    |   5|
+|    |Theoretische Informatik    |   5|
+|    |Information Retrieval und Natural Language Processing|   5|
+|    |Wahlpflichtmodule Schlüsselqualifikation/Fremdsprachen |   3|
+|    | Wahlfach |   5|
+|    |                                 |   *29*|
+^4 ^^^    
+|    |Web Engineering               |   6|
+|    |Grundlagen der IT-Sicherheit     |   5|
+|    |Rechnernetze     |   7|
+|    |Grundlagen von Datenbanken |   5|
+| |Wahlfach|  10|
+|    |                                 |   *33*|
+^5 ^^^    
+|    |Software Engineering Praktikum                |   13|
+|    |Funktionale Sicherheit    |   6|
+|    |Wahlpflichtmodul Internet Computing     |   6|
+|    |Wahlfach |   5|
+|    |                                 |   *30*|
+^6 ^^^    
+|    |Bachelorarbeit und Präsentation der Bachelorarbeit               |   15|
+|    |Seminar     |   4|
+|    |Wahlpflichtmodul Internet Computing |   6|
+|    |Wahlfach |   5|
+|    |          |   *30*|  
+
+=== Beispiel Studienplan Bachelor Internet Computing mit Studienbeginn im Sommersemester ===
+^Semester    ^Modul       ^ETCs        ^
+^1 ^^^    
+|    |Algorithmen und Datenstrukturen  |   7|
+|    |Datenmodellierung      |   6|
+|    |Programmierung I           |   6|
+|    |Wahlfach       |   10|
+|    |                           |   *29*|
+^2 ^^^    
+|    |Einführung in Internet Computing |   9|
+|    |Grundlagen der Mensch-Maschine-Interaktion               |   5|
+|    |Programmierung II             |   6|
+|    |Grundlagen der Mathematik I                |   5|
+|    |Wahlfach|  5|
+|    |                                 |   *30*|
+^3 ^^^    
+|    |Web Engineering             |   6|
+|    |Grundlagen von Datenbanken    |   5|
+|    |Rechnernetze     |   7|
+|    |Grundlagen der Mathematik II |   5|
+|    |Software Engineering |   5|
+|    |Grundlagen der IT-Sicherheit |   5|
+|    |                                 |   *33*|
+^4 ^^^    
+|    |Software Engineering Praktikum                |   13|
+|    |Web Science      |   5|
+|    |Theoretische Informatik I   |   5|
+|    |Wahlpflichtmodul Internet Computing |   6|
+|    |                                 |   *29*|
+^5 ^^^    
+|    |Wahlpflichtmodul Internet Computing                |   6|
+|    |Seminar   |   4|
+|    |Wahlfach     |   15|
+|    |Wahlpflichtmodule Schlüsselqualifikationen/Fremdsprachen |   3|
+|    |                                 |   *28*|
+^6 ^^^    
+|    |Bachelorarbeit und Präsentation der Bachelorarbeit               |   15|
+|    |Information Retrieval und Natural Language Processing     |   5|
+|    |Funktionale Sicherheit     |   6|
+|    |Wahlfach |   5|
+|    |          |   *31*|

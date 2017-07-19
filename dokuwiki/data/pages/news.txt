@@ -1,1 +1,27 @@
 ====== News ======
+
+===== FIM =====
+
+
+<rss feed="http://www.fim.uni-passau.de/aktuelles/feed.xml" />
+
+----
+
+===== Wiwi =====
+
+<rss feed="http://www.uni-passau.de/index.php?id=10926&type=100" />
+
+----
+
+===== Universität Passau =====
+
+
+<rss feed="http://www.uni-passau.de/index.php?id=68&type=100" />
+
+
+----
+
+===== OPUS - Dokumentenserver =====
+
+
+<rss feed="https://opus4.kobv.de/opus4-uni-passau/rss" />

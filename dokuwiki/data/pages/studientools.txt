@@ -1,1 +1,16 @@
 ====== Studientools ======
+
+
+----
+
+Hier findet ihr verschiedene Tools die euch im Laufe eures Studiums mit Sicherheit begegnen werden:
+
+
+  * [[github|Git]]
+  * [[eclipse|Eclipse]]
+  * [[apache|Apache]]
+  * [[xampp|XAMPP]]
+  * [[intellij|IntelliJ]]
+  * [[pycharm|Pycharm]]
+  * [[clion|CLion]]
+  * [[rational|Rational Software Architect]]

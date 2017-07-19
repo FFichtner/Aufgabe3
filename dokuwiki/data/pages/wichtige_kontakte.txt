@@ -1,1 +1,34 @@
 ====== Wichtige Kontakte ======
+
+==== Fachschaft Info ====
+Fachschaft der Fakultät für Informatik und Mathematik \\
+Innstraße 33, Zimmer 244 \\
+94032 Passau \\
+\\
+E-Mail: \\
+  *fsinfo@fim.uni-passau.de (für allgemeine Anfragen), \\
+  *stellenanzeigen@fsinfo.fim.uni-passau.de (für Stellenanzeigen für die Studierenden der Fakultät), \\
+  *klausuren@fsinfo.fim.uni-passau.de (für Klausurprotokolle der Vorjahre) \\
+Tel.: __0851 509-3004__ \\
+Fax: __0851 509-3209__ \\
+Web: https://fsinfo.fim.uni-passau.de \\
+==== Dekan ====
+
+**Prof. Christian Lengauer** \\
+Raum IM 215 \\
+Innstr. 33 \\
+\\
+Tel.: __+49 851 509-3070__ \\
+Email : Christian.Lengauer@uni-passau.de \\
+
+==== Systembetreuung ====
+**Klaus Schießl** \\
+Raum IM 017\\
+Tel.: __+49 851 509-3012__\\
+Klaus.Schiesslatuni-passau.de\\
+\\
+\\
+**Franz Rautmann**\\
+Raum IM 014\\
+Tel.: __+49 851 509-3013__\\
+Franz.Rautmannatuni-passau.de\\

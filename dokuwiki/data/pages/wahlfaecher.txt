@@ -1,1 +1,71 @@
 ====== Wahlfächer ======
+==== Modulgruppe Wahlpflichtmodule Internet Computing und Informatik ====
+  * 5600 Effiziente Algorithmen 
+  * 5604 Präferenzen und Ranking in Informationssystemen
+  * 5620 Praktische Parallelprogrammierung
+  * 5775 Data Warehouses 
+  * 5940 Data Mining und Maschinelles Lernen
+  * 5452 Bildverarbeitung 
+  *5878 Experimentelle IT-Sicherheit 
+  *5941 Medientechnik 
+  *5814 Programmieren mit R 
+  *5807 Programming Applications for Mobile Interaction 
+  *5753 Signalanalyse 
+  *5851 Software Product-Line Engineering
+  *5843 Software Verification 
+  *5812 Stochastische Simulation 
+  *5622 System Security/Software-Sicherheit
+  *5744 Verteilte Datenbanken 
+  *5795 Virtuelle Maschinen und Laufzeitsysteme
+  *5942 Social and User Centered Aspects of Webbased Information Systems 
+  *5976 Einführung in die Kontexterkennung
+  *5461 Mustererkennung und Zeitreihenanalyse
+  *5670 Logik für Informatiker 
+  *5824 Cloud Security 
+  *5739 Geometric Modelling
+  *5772 Web of Things and Services
+  *5981 Text Mining Project
+  *5779 Data Science 
+  *45340 Psychologie der Mensch-MaschineInteraktion
+  *5747 Datenbanktechnologien 
+
+\\
+\\
+\\
+==== Bachelor Internet Computing: Wahlfach Gesellschaftliche und rechtliche Aspekte des Internet Computing ====
+== I.Recht: ==
+  *22290 Rechtsinformatik 
+  *28140 Einführung in das Internetrecht (für Nichtjuristen)
+  *48672 Einführung in das Medienrecht (für MuK, StaWi) 
+== II.Kommunikationswissenschaft: ==
+  *48610 Einführung in die Kommunikationswissenschaft 
+  *48610 Einführung in die Medien- und Kommunikationspolitik 
+  *48700 Computervermittelte Kommunikation
+  *48110 Journalismus und PR in Gegenwart und Zukunft 
+  *Seminar Kommunikationswissenschaft
+==III.Kultur und Gesellschaftswissenschaft:==
+  *41631 Digital Humanities I 
+  *41641 Digitising cultural heritage 
+  *41640 Seminar in Digital Humanities 
+
+\\
+\\
+\\
+
+====Bachelor Internet Computing: Wahlfach Internet, Wirtschaft und Recht ====
+==I.Geschäftsprozesse, Geschäftsmodelle und Datenmanagement==
+  *3750 Geschäftsprozessmanagement 
+  *37807, 37808 Datenmanagement und Sicherung der Informationsqualität
+  *39500, 39501 Grundlagen der Internetwirtschaft 
+  *37654, 37655 Wissensmanagement 
+  *37802, 37803 IT-Management
+==II.Recht==
+  *22290 Rechtsinformatik 
+  *28140 Einführung in das Internetrecht (für Nichtjuristen) 
+  *48672 Einführung in das Medienrecht
+==III. Entrepreneurship==
+  *38559, 38560 Financial Issues in Innovation and Entrepreneurship (englisch)
+  *38569, 38570 Strategic Management (english) 
+  *38550, 38551 Technology and Innovation Management
+  *32700, 32710 Organisation 
+  *39452 Seminar Business Planning

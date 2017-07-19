@@ -1,0 +1,17 @@
+====== CLion ======
+
+{{ ::download.jpg?nolink&400 |}}
+
+===== Allgemeines =====
+
+CLion ist eine IDE für C und C++.
+
+===== Overview =====
+
+{{youtube>Srnw1dI1iAA}}
+
+===== Weiter Infos =====
+
+CLion gehört wie auch pycharm und IntelliJ zu Jet Brains.
+
+

@@ -1,7 +1,7 @@
 ====== Stundenplanhilfe ======
 
-  * [[informatik_b.c|Informatik B.C.]]
-  * [[Internet_Computing_b.c| Internet Computing B.C.]]
+  * [[informatik_b.c|Informatik B.Sc.]]
+  * [[Internet_Computing_b.c| Internet Computing B.Sc.]]
   * [[wahlfaecher|Wahlfächer]]
   * [[schluesselqualifikation|Schlüsselqualifikationen]]
   * [[studienordnung|Studienordnung]]

@@ -1,0 +1,56 @@
+====== Eclipse ======
+
+{{ :eclipse-426x100.png?nolink&200|{{:eclipse-426x100.png?nolink&200 |}}
+
+
+
+
+===== Allgemeines =====
+
+
+
+Eclipse ist eine **IDE** für Java Programme, allerdings wird es wegen seiner Erweiterbarkeit mittlerweile auch für viele andere Entwicklungsaufgaben verwendet. Ihr könnt es unabhängig von eurem Betriebssystem installieren, es handelt sich um eine Open Source Anwendung.
+
+==== Versionen ====
+
+Alle Versionen von Eclipse im Überblick:
+
+
+^Projektname           ^Version            ^Veröffentlichung           ^
+|                      | 3.0               | 28.Juni 2004              |
+|                      | 3.1               | 28.Juni 2005              |
+| Callisto             | 3.2               | 26.Juni 2006              |
+| Europa               | 3.3               | 27.Juni 2007              |
+| Ganymede             | 3.4               | 25.Juni 2008              |
+| Galileo              | 3.5               | 24.Juni 2009              |
+| Helios               | 3.6               | 23.Juni 2010              |
+| Indigo               | 3.7               | 22.Juni 2011              |
+| Juno                 | 3.8 & 4.2         | 27.Juni 2012              |
+| Kepler               | 4.3               | 26.Juni 2013              |
+| Luna                 | 4.4               | 25.Juni 2014              |
+| Mars                 | 4.5               | 25.Juni 2015              |
+| Neon                 | 4.6               | 22.Juni 2016              |
+| **Oxygen**               | 4.7               | 28.Juni 2017              |
+
+
+{{ :eclipse_oxygen_splash-ced65ed972085cdd.jpeg?nolink&400 |}}
+
+===== Hello World Guide =====
+
+Wie bei fast allen Tools gibt es immer Anfängerguides um sich mit dem Programm/Syntax vertraut zu machen.
+
+[[https://eclipse.org/users/|hier]] findet ihr den __Getting Started Guide__ von Eclipse.
+
+[[http://help.eclipse.org/oxygen/index.jsp?nav=%2F0|hier]] findet ihr die __Dokumentation__ zur aktuellen Version **Oxygen**.
+
+===== Alternativen =====
+
+Alternativen für Eclipse gibt es natürlich einige, im Prinzip ist es euch überlassen welche IDE ihr benutzt, jede besitzt kleine Unterschiede, probiert einfach aus was euch am besten gefällt!
+
+{{::zlvaaeog.jpg?nolink&200 |}}
+{{ ::netbeans-logo.png?nolink&200 |}}
+{{ ::bluej-icon-256.png?nolink&200|}}
+
+
+
+

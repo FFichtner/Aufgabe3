@@ -1,0 +1,17 @@
+====== XAMPP ======
+
+{{ ::2000px-xampp_logo.svg.png?nolink&400 |}}
+
+===== Allgemeines =====
+
+XAMPP ist ein Programmpaket von freier Software – vorwiegend im Umfeld des LAMP-Systems. XAMPP ermöglicht das einfache Installieren und Konfigurieren des Webservers Apache mit der Datenbank MariaDB bzw. SQLite und den Skriptsprachen Perl und PHP (mit PEAR). Das X steht hierbei für die verschiedenen Betriebssysteme, auf denen es eingesetzt werden kann. XAMPP enthält zusätzlich andere nützliche Werkzeuge wie den FTP-Server ProFTPD oder FileZilla Server, den Mailserver Mercury, phpMyAdmin, Webalizer und OpenSSL. Ab Version 1.7.4 beinhaltet die Windows-Variante zusätzlich auch Apache Tomcat 7, der die Ausführung von JavaServer Pages und Java Servlets ermöglicht.
+
+===== Getting Started =====
+
+Von XAMPP selbst gibt es leider keinen Guide, den benötigt ihr aber auch nicht, da sich der Server quasi selbst installiert. Deswegen findet ihr [[https://hosting.1und1.de/digitalguide/server/tools/xampp-tutorial-so-erstellen-sie-ihren-lokalen-testserver/|hier]] nur eine Installationsanleitung. 
+
+===== Alternativen =====
+
+Für Windows: **Vertrigo Serv**
+
+Für Mac: **MAMP**
