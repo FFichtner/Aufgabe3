@@ -1,1 +1,44 @@
 ====== Sonstige Hinweise ======
+
+===== Software Engineering Praktikum =====
+
+
+Das Software Engineering Praktikum (kurz SEP) stellt einen wichtigen Bestandteil des Bachelor- und Lehramt-Studiums an der Fakultät für Informatik und Mathematik dar. Im Rahmen dieses Praktikums arbeitet ein Team von 5-6 Studierenden an einem mittelgroßen Softwareprojekt für eine Dauer von 3,5 Monaten.
+
+Dabei werden insgesamt 6 Phasen der Entwicklung durchlaufen: Pflichtenheft, Entwurf, Spezifikation, Implementierung, Test und Auslieferung. Als Voraussetzung für dieses Praktikum werden zahlreiche Vorlesungen aus den ersten drei bis vier Semestern benötigt. Deshalb ist das SEP planmäßig im vierten oder fünften Semester angesetzt, im Lehramt bis zum 7. Semester. Der zeitliche Aufwand ist erfahrungsgemäß sehr hoch. Dies bestätigen sowohl die Betreuer und Betreuerinnen als auch die Studierenden, die das SEP schon hinter sich gebracht haben. Deswegen empfiehlt es sich, einzelne Veranstaltungen aus dem „SEP-Semester“ bereits vorher zu hören.
+
+Beratung hierzu bekommt man jederzeit von der Fachschaft. Trotz des immensen Aufwands und der vergleichsweise wenigen ECTS-Punkte, gewinnt man während des SEPs viel Erfahrung in Software-Entwicklung, Administration, Zeit-Management, Teambildung und Kommunikation. Die Projekte in Form der fertigen Programme werden am Ende des Semesters in einer Veranstaltung einem interessierten Publikum vorgeführt.
+
+Wenn ihr im Rahmen des SEP oder EVS zusammen mit Kommilitoninnen und Kommilitonen eine Software entwickelt, liegt das Urheberrecht für diese bei euch. Das heißt unter anderem, dass ihr die Software NACH Abschluss des Moduls beliebig veröffentlichen oder weiterverwenden dürft, sofern das gesamte Team damit einverstanden ist.
+
+Projekte der vergangenen Jahre:
+
+__**Internet Computing:**__
+
+
+  * Browsergame
+  * Praktomat-Light (Abgabesystem für Programmieraufgaben)
+  * Publikationsplattform
+  * Foto Community
+ 
+
+__**Informatik:**__
+
+  * Fußballsimulation
+  * Navigationssystem
+  * RoboRally-Digital (Brettspiel-Umsetzung)
+  * Billard-Simulation
+  * Schaltungssimulator
+
+
+__**Mobile und Eingebettete Systeme:**__
+
+  * E-Car Simulation (Android-App)
+  * Social Recycling (Android-App)
+  * Building assisted Indoor Navigation
+  * Light estimation using smartphones (Android-App)
+
+ 
+====== Seminare ======
+
+[[http://www.fim.uni-passau.de/studium/seminare/|hier]] findet ihr die aktuellen Informationen für die Bachelor- bzw. Maasterseminare.

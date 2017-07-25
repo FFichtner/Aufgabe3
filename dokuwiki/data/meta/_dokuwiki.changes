@@ -1,47 +1,20 @@
-1499962150	::1	E	informatik_b.c	admin			3438
-1499962336	::1	E	wahlfaecher	admin			2649
-1499962357	::1	E	schluesselqualifikation	admin			783
-1499962412	::1	E	studienordnung	admin			234
-1499964674	::1	C	github	admin	angelegt		1614
-1499964835	::1	E	github	admin			164
-1500280818	::1	C	sidebar	admin	angelegt		181
-1500280864	::1	E	sidebar	admin			28
-1500280969	::1	D	sidebar	admin	gelöscht		-209
-1500281157	::1	C	sidebar	admin	angelegt		1
-1500281242	::1	E	sidebar	admin			157
-1500281267	::1	E	sidebar	admin			52
-1500281278	::1	E	sidebar	admin			11
-1500281306	::1	E	sidebar	admin			-7
-1500281370	::1	C	eclipse	admin	angelegt		22
-1500281394	::1	C	apache	admin	angelegt		21
-1500281408	::1	C	xampp	admin	angelegt		20
-1500281420	::1	C	intellij	admin	angelegt		23
-1500281437	::1	C	pycharm	admin	angelegt		22
-1500281449	::1	C	clion	admin	angelegt		20
-1500281469	::1	C	rational	admin	angelegt		42
-1500281578	::1	E	studientools	admin			309
-1500282746	::1	E	eclipse	admin			1819
-1500282766	::1	E	eclipse	admin			4
-1500283021	::1	E	eclipse	admin			143
-1500283236	::1	E	eclipse	admin			337
-1500283637	::1	E	apache	admin			356
-1500283829	::1	E	apache	admin			299
-1500283945	::1	E	xampp	admin			749
-1500284199	::1	E	xampp	admin			407
-1500284618	::1	E	internet_computing_b.c	admin			3401
-1500284633	::1	E	informatik_b.c	admin			1
-1500284644	::1	E	stundenplanhife	admin			2
-1500286130	::1	E	intellij	admin			350
-1500286196	::1	E	intellij	admin			33
-1500286453	::1	E	pycharm	admin			229
-1500286464	::1	E	pycharm	admin			6
 1500286644	::1	E	clion	admin			230
 1500286915	::1	E	rational	admin			673
 1500373753	::1	E	news	admin			64
 1500373854	::1	E	news	admin			140
 1500373933	::1	E	news	admin			88
 1500374022	::1	E	news	admin			92
-1499691712	127.0.0.1	E	wichtige_kontakte		Externe Bearbeitung		0
 1500467721	::1	E	wichtige_kontakte	admin			863
 1500467722	127.0.0.1	E	wichtige_kontakte		Externe Bearbeitung		0
 1500468743	::1	E	wichtige_kontakte	admin			1
+1500469984	::1	E	sonstige_hinweise	admin			2306
+1500470152	::1	E	sonstige_hinweise	admin			159
+1500470706	::1	E	studientools	admin			168
+1500470834	::1	E	start	admin			3191
+1500470930	::1	E	start	admin			39
+1500470962	::1	E	start	admin			-1
+1500470990	::1	E	start	admin			-1
+1500471018	::1	E	start	admin			4
+1500471699	::1	C	ieee	admin	angelegt		84
+1500471849	::1	E	ieee	admin			-5
+1500471959	::1	E	ieee	admin			4
